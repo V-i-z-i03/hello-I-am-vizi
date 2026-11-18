@@ -1,0 +1,20 @@
+<svg width="1200" height="630" viewBox="0 0 1200 630" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="vizi — сайты под ключ">
+  <rect width="1200" height="630" fill="#0a0a0a"/>
+  <!-- тонкая сетка -->
+  <g stroke="#262626" stroke-width="1">
+    <line x1="300" y1="0" x2="300" y2="630"/>
+    <line x1="600" y1="0" x2="600" y2="630"/>
+    <line x1="900" y1="0" x2="900" y2="630"/>
+    <line x1="0" y1="210" x2="1200" y2="210"/>
+    <line x1="0" y1="420" x2="1200" y2="420"/>
+  </g>
+  <!-- акцентный квадрат -->
+  <rect x="936" y="84" width="180" height="180" fill="#e8590c" rx="24"/>
+  <!-- логотип -->
+  <text x="120" y="120" font-family="Helvetica, Arial, sans-serif" font-size="40" font-weight="800" fill="#ffffff">vizi</text>
+  <!-- заголовок -->
+  <text x="120" y="330" font-family="Helvetica, Arial, sans-serif" font-size="88" font-weight="800" fill="#ffffff" letter-spacing="-2">Создаю сайты,</text>
+  <text x="120" y="430" font-family="Helvetica, Arial, sans-serif" font-size="88" font-weight="800" fill="#ffffff" letter-spacing="-2">которые работают</text>
+  <!-- подзаголовок -->
+  <text x="120" y="510" font-family="Helvetica, Arial, sans-serif" font-size="28" fill="#a3a3a3">Лендинги · Корпоративные сайты · Магазины · Веб-приложения</text>
+</svg>
